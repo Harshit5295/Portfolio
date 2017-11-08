@@ -1,0 +1,154 @@
+.jumbotron {
+  text-align: center;
+  background: none;
+  background-color: #eceeef;
+}
+
+.sectionLight {
+  background-color: #eceeef;
+}
+
+h5.modal-title {
+  margin: auto;
+}
+
+.display-3 {
+  font-size: 3rem;
+}
+
+.code {
+  background-color: #c26868;
+}
+
+.card {
+  background-color: #383737;
+  color: #ccc;
+  font-family: 'Monaco', 'Courier New';
+  text-align: left;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  word-wrap: break-word;
+}
+
+.floating-box {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: #ecf0f1;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.skills {
+  text-align: center;
+  background-color: #ddd;
+  font-family: arial;
+}
+
+h2.heading-2 {
+  font-size: 20px;
+  padding-top: 15px;
+}
+
+.work {
+  background-color: #ecf0f1;
+  padding: 50px;
+}
+
+.doorlock {
+  background-color: #95a5a6;
+  margin: 10px;
+  padding: 20px;
+}
+
+.project-font {
+  font-size: 18px;
+  color: white;
+  font-weight: normal;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.coolstuffbutton {
+  background-color: black;
+  color: white;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.coolstuffbutton:hover {
+  background-color: #5F5353;
+}
+
+.fa-google-plus-square {
+  color: #c32f10;
+}
+
+.fa-linkedin-square {
+  color: #007bb6;
+}
+
+.fa-github-square {
+  color: white;
+}
+
+.fa-mobile {
+  color: yellow;
+}
+
+.fa {
+  margin: 20px;
+}
+
+.fa-whatsapp {
+  color: green;
+}
+
+.social-icons {
+  margin: auto;
+}
+
+.myimg {
+  width: 20%;
+  height: 30%;
+  border-radius: 50%;
+}
+
+.heading-1 {
+  padding-top: 20px;
+}
+
+.myline {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+}
+
+
+@media (max-width: 767px) {
+  .coolstuffbutton {
+  background-color: black;
+  color: white;
+  display: inline-block;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  word-wrap: break-word;
+  height: 90px;
+  }
+
+  .work {
+    margin: 20px;
+    padding: 20px;
+
+  }
+}
+
+
